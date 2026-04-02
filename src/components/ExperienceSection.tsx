@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Zap, Speaker, Eye, Sparkles } from "lucide-react";
+import { Zap, Volume2, Eye, Sparkles } from "lucide-react";
 
 const experiences = [
   {
