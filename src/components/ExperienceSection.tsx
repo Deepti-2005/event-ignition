@@ -3,7 +3,7 @@ import { Zap, Volume2, Eye, Sparkles } from "lucide-react";
 
 const experiences = [
   {
-    icon: Speaker,
+    icon: Volume2,
     title: "4 STAGES",
     description: "Main Stage, Neon Stage, Cyber Arena & Underground — each with a unique sonic identity.",
     color: "text-primary",
